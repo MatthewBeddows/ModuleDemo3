@@ -1,4 +1,5 @@
-[Module Info] Gradient Coil Manufacturing
-Wind gradient coils with precise control over wire tension and spacing, using automated winding machines for consistency and accuracy. Perform intermediate testing to detect and correct any defects.
+[Module Name] Gradient Coil Manufacturing
+[Module Info] Wind gradient coils with precise control over wire tension and spacing, using automated winding machines for consistency and accuracy. Perform intermediate testing to detect and correct any defects.
+
 
 [Requirements]
